@@ -11,16 +11,25 @@ Post.init({
         autoIncrement: true,
     },
     title: {
-
+        type: DataTypes.STRING,
+        allowNull: false,
     },
     text: {
-
+        type: DataTypes.STRING,
+        allowNull: false,
+        unique: true,
     },
     user_id: {
-
+        type: DataTypes.INTEGER,
+        references: {
+            model: 'user',
+            key: 'id',
+        },
     },
     date_created: {
-
+        type: DataTypes.DATE,
+        allowNull: false,
+        defaultValue: DataTypes.NOW,
     },
 },
 {
