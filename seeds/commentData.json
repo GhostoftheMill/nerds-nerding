@@ -1,0 +1,20 @@
+[
+    {
+        "text": "I like your take on this!",
+        "user_id": "2",
+        "date_created": "",
+        "post_id": "1"
+    },
+    {
+        "text": "I never thought of that!",
+        "user_id": "3",
+        "date_created": "",
+        "post_id": "1"
+    },
+    {
+        "text": "That's neat!",
+        "user_id": "1",
+        "date_created": "",
+        "post_id": "2"
+    }
+]

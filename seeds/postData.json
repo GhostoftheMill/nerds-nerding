@@ -1,0 +1,20 @@
+[
+    {
+        "title": "The greatest and best HTML tag!",
+        "text": "<p>. Source: because reasons",
+        "user_id": "1",
+        "date_created": ""
+    },
+    {
+        "title": "General thoughts on JS",
+        "text": "Not a fan",
+        "user_id": "2",
+        "date_created": ""
+    },
+    {
+        "title": "Bah weep granah weep nini bong",
+        "text": "A greeting of goof will towards foregin peoples when a language barrier exists.",
+        "user_id": "3",
+        "date_created": ""
+    }
+]
