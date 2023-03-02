@@ -1,0 +1,19 @@
+:root {
+    backgroud-color: lightcoral;
+}
+
+header {
+    background-color: black;
+    color: lightcoral
+}
+
+h1 {
+    background-color: lightcoral;
+    color: black;
+    box-shadow: 5px 5px lightgray;
+}
+
+a:hover {
+    color: lightgray;
+    text-decoration: underline;
+}
